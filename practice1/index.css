@@ -1,0 +1,40 @@
+body{
+   background-image: url("https://media.istockphoto.com/id/1419117748/photo/old-wall-texture-cement-dirty-gray-with-black-background-abstract-grey-and-silver-color.jpg?s=1024x1024&w=is&k=20&c=ph6lVym5Y5PHb7dAUGe-1C9P1CsUoyZl1IIDQ6pRCY4=");
+   
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: cursive;
+}
+
+#increment-btn{
+    padding: 5px 30px;
+    margin-left: 550px;
+    background-color: darkred;
+    font-size: larger;
+    color: aliceblue;
+    font-family: cursive;
+
+}
+
+#save-btn{
+    padding: 5px 50px;
+    margin-left: 570px;
+    background-color: darkgreen;
+    font-size: larger;
+    color: aliceblue;
+    font-family: cursive;
+    margin-top: 10px;
+}
+
+#save-el{
+    text-align: center;
+   font-size: 50px;
+   font-family: cursive;
+   color: white;
+   background-color: black;
+}
+
+
